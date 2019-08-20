@@ -1,0 +1,50 @@
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csprojAssemblyReference.cache
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmAdd.resources
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmMain.resources
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.Properties.Resources.resources
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.GenerateResource.cache
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.CoreCompileInputs.cache
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe.config
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.pdb
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.exe
+H:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.pdb
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe.config
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.pdb
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csprojAssemblyReference.cache
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmAdd.resources
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmMain.resources
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.Properties.Resources.resources
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.GenerateResource.cache
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.CoreCompileInputs.cache
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.exe
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.pdb
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmEdit.resources
+D:\IT\Program\C#\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmSearch.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe.config
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.pdb
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csprojAssemblyReference.cache
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmAdd.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmMain.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmEdit.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmSearch.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.Properties.Resources.resources
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.GenerateResource.cache
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.CoreCompileInputs.cache
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.exe
+D:\IT\Program\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.pdb
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe.config
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.exe
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\bin\Debug\studentManagerTransfer.pdb
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csprojAssemblyReference.cache
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmAdd.resources
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmMain.resources
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmEdit.resources
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.frmSearch.resources
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.Properties.Resources.resources
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.GenerateResource.cache
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.csproj.CoreCompileInputs.cache
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.exe
+D:\IT_file\Program\C#DotNet\C# winform\studentManagerTransfer\studentManagerTransfer\obj\Debug\studentManagerTransfer.pdb
